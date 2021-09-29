@@ -5,8 +5,8 @@ on:
     workflow_dispatch:
 
 env:
-  GitHubMail: "Michael.j.hubs@gmail.com"
-  GitHubName: "ToxygenX" 
+  GitHubMail: "koobsmu@gmail.com"
+  GitHubName: "LoopXS" 
 
 jobs:
   build:
